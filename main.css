@@ -76,6 +76,7 @@ nav ul li a{
 }
 .button{
     margin-top: 15px;
+	display:flex;
 }
 .offer{
     background-color: orange;
